@@ -1,0 +1,24 @@
+{
+  "name": "basic-informational-site",
+  "version": "1.0.0",
+  "description": "Basic Informational Site using node for learning purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d-hardine/Basic-Informational-Site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d-hardine/Basic-Informational-Site/issues"
+  },
+  "homepage": "https://github.com/d-hardine/Basic-Informational-Site#readme",
+  "dependencies": {
+    "axios": "^1.11.0"
+  },
+  "type": "module"
+}
